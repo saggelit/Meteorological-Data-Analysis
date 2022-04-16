@@ -1,0 +1,2 @@
+# Meteorological-Data-Analysis
+P. Cortez and A. Morais. A Data Mining Appro- ach to Predict Forest Fires using Meteorological Data. In J. Neves, M. F. Santos and J. Machado Eds., New Trends in Artificial Intelligence, Procee- dings of the 13th EPIA 2007 - Portuguese Conference on Artificial Intellige- nce, December, Guimaraes, Portugal, pp. 512-523, 2007. (το άρθρο είναι διαθέσιμο στη διεύθυνση http://www3.dsi.uminho.pt/pcortez/fires.pdf)
