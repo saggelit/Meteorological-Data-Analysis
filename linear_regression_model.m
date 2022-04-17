@@ -12,8 +12,8 @@ alpha=0.05;
 zcrit = norminv(1-alpha/2);
 
 %% Relative Humidity
-[n,m]=size(rh);   %'n' needed
-k=1;  %independent variables
+[n,m]=size(rh);
+k=1;
 Y=temp(:,1);
 mY=mean(Y);
 X1=[ones(n,m) rh];
@@ -48,6 +48,7 @@ xlabel('y')
 ylabel('e^*')
 title('Relative Humidity-Diagnostic plot');
 pause;
+
 %% Wind
 [n,m]=size(wind);   
 k=1;  
